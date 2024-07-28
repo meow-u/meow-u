@@ -2,7 +2,7 @@
 ## 안녕하세요, Hello there!
 `프론트엔드 개발자`를 꿈꾸는 박노영 입니다. 
 다양한 기술지식 습득에 즐거움을 느끼며 지속적으로 학습하고 도전하고 있습니다!     
-I am Noyoung Park, an aspiring front-end developer. I enjoy acquiring various technical knowledge and am constantly learning and challenging myself!     
+I am Noyeong Park, an aspiring front-end developer. I enjoy acquiring various technical knowledge and am constantly learning and challenging myself!     
 
 #### ✔️Languages/Frameworks I'm using:
 ![Editor](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2E9AFE)
