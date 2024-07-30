@@ -12,7 +12,7 @@ I am Noyeong Park, an aspiring front-end developer. I enjoy acquiring various te
 ![Framework](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2E64FE)
 
 #### ✔️Environments I work with:
-![](https://img.shields.io/badge/gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=0B173B)
+![](https://img.shields.io/badge/github-informational?style=flat&logo=github&logoColor=white&color=0B173B)
 ![](https://img.shields.io/badge/slack-informational?style=flat&logo=slack&logoColor=white&color=8000FF)
 
 ####  ✔️Things I'm interested with:
