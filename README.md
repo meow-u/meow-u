@@ -10,6 +10,9 @@ I am Noyeong Park, an aspiring front-end developer. I enjoy acquiring various te
 ![Code](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FE642E)
 ![Library](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=088A85)
 ![Framework](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2E64FE)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 
 #### ✔️Environments I work with:
 ![](https://img.shields.io/badge/github-informational?style=flat&logo=github&logoColor=white&color=0B173B)
